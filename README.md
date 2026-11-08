@@ -105,6 +105,7 @@ The foundations: projects whose quality, influence, and staying power made moder
 | Project | Snapshot |
 |---|---|
 | [Home Assistant](https://github.com/home-assistant/core) | A privacy-respecting open platform for home automation. |
+| [LatchLayout](https://github.com/stanczykwyatt/latchlayout) | Windows 11 preview for opening apps, browser profiles, and URLs in chosen display layouts using a configurable hold shortcut. |
 | [n8n](https://github.com/n8n-io/n8n) | Workflow automation with visual building blocks and self-hosting options. |
 | [Appwrite](https://github.com/appwrite/appwrite) | Open-source backend platform for web and mobile apps. |
 | [Mautic](https://github.com/mautic/mautic) | Marketing automation you can own and run yourself. |
